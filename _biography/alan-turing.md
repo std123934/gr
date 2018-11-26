@@ -13,7 +13,7 @@ tags:
   - Turing's proof
   - Turing test
   - Unorganised machine
-LU decomposition
+LU decomposition:
   - Turing Machine
   - Cryptanalysis of the Enigma
 gallery:
