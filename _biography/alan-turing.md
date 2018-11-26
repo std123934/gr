@@ -25,7 +25,7 @@ gallery:
     caption: "Το Bombe είναι μια ηλεκτρομηχανική συσκευή που χρησιμοποίησαν οι βρετανοί κρυπτολόγοι για την αποκρυπτογράφηση των κρυπτογραφημένων μηνυμάτων του Γερμανικού Enigma-Machine κατά τη διάρκεια του Β 'Παγκοσμίου Πολέμου"
 ---
 
-{% include_relative bio_allan_turing.md %}
+{% include_relative bio-allan-turing.md %}
 
 
 
